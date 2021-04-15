@@ -2,7 +2,7 @@
 LLC is just a UI that uses the command "LeagueClient.exe --locale=[code]" to change the language "without" restrictions.
 
 ## Install
-Download the application [here](https://github.com/Super99Master/Portable_Tape/releases/tag/1.0.0)  
+Download the application [here](https://github.com/Super99Master/LLC/releases/tag/1.0.0)  
 Extract the folder and run the LLC.exe
 
 ## Guide
