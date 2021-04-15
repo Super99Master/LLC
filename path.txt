@@ -1,0 +1,1 @@
+League = C:\Riot Games\League of Legends\LeagueClient.exe
