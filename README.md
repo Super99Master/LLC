@@ -1,5 +1,5 @@
 # LLC
-LLC is just a UI that uses the command "LeagueClient.exe --locale=[code]" to change the language "without" restrictions.
+LLC is just a UI that uses the command "LeagueClient.exe --locale=[code]" to change the language "without" restrictions.  
 ![ok](https://user-images.githubusercontent.com/35634158/114990580-f22a2d00-9e98-11eb-836f-0d71e3a3e895.PNG)
 ![Error](https://user-images.githubusercontent.com/35634158/114990658-0837ed80-9e99-11eb-82f5-a912abb82e08.PNG)  
 
